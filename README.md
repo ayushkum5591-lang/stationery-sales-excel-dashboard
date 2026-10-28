@@ -37,7 +37,7 @@ Figures cover all 1,755 records with no filters applied. Profit = Net Sales − 
 <img width="1560" height="817" alt="image" src="https://github.com/user-attachments/assets/0c0b9c41-b843-4203-a0e6-7c76a25fe90d" />
 
 
-## Brand-Camel
+## Brand-Doms
 <img width="1557" height="818" alt="image" src="https://github.com/user-attachments/assets/f17021fc-2763-4e43-9e70-bed79f310aef" />
 
 
